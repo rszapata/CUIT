@@ -6,6 +6,19 @@ Reemplaza un proceso 100% manual que se realizaba en estudios jurídicos.
 
 ---
 
+## Capturas
+
+### Inicio — detección del archivo y resumen
+![Inicio](assets/Inicio.png)
+
+### Procesando — scraping en tiempo real con 2 workers
+![Procesando](assets/Procesando.png)
+
+### Resultados finales
+![Resultados](assets/Resultados.png)
+
+---
+
 ## 🧩 Contexto y problema
 
 Los estudios jurídicos necesitan conocer la jurisdicción (provincia) de cada cliente para determinar qué convenios o alícuotas aplican. El proceso manual consistía en consultar ARCA uno por uno, copiar la provincia a mano en un Excel y repetirlo para cada cliente — un proceso que podía llevar horas con listas grandes.
