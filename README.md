@@ -120,4 +120,4 @@ Los archivos de datos (`*.csv`, `*.xlsx`, `cache_cuits.json`) **no se incluyen e
 ## Autor
 
 **Rodrigo Nicolás Zapata**  
-[LinkedIn](https://linkedin.com/in/rnzapata) · [GitHub](https://github.com/rnzapata)
+[LinkedIn](https://linkedin.com/in/rnzapata) · [GitHub](https://github.com/rszapata)
